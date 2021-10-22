@@ -1,0 +1,10 @@
+span {
+  cursor: pointer;
+  font-weight: bold;
+  position: relative;
+  left: -10px;
+}
+
+ul {
+  font-size: 20px;
+}
